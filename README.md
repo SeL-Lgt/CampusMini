@@ -1,3 +1,3 @@
-# wechat-app
+# CampusMini
 
 初测提交
